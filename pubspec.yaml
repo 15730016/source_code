@@ -140,20 +140,52 @@ flutter:
     - assets/fonts/
     - dummy_assets/
   fonts:
-    - family: PublicSansSerif
+    - family: BeVietnamPro
       fonts:
-        - asset: assets/fonts/PublicSans-Regular.ttf
-        - asset: assets/fonts/PublicSans-Bold.ttf
-        - asset: assets/fonts/PublicSans-Medium.ttf
-        - asset: assets/fonts/PublicSans-SemiBold.ttf
-        - asset: assets/fonts/PublicSans-Italic.ttf
+        - asset: assets/fonts/BeVietnamPro/BeVietnamPro-Thin.ttf
+          weight: 100
+        - asset: assets/fonts/BeVietnamPro/BeVietnamPro-ExtraLight.ttf
+          weight: 200
+        - asset: assets/fonts/BeVietnamPro/BeVietnamPro-Light.ttf
+          weight: 300
+        - asset: assets/fonts/BeVietnamPro/BeVietnamPro-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/BeVietnamPro/BeVietnamPro-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/BeVietnamPro/BeVietnamPro-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/BeVietnamPro/BeVietnamPro-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/BeVietnamPro/BeVietnamPro-ExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/BeVietnamPro/BeVietnamPro-Black.ttf
+          weight: 900
+        - asset: assets/fonts/BeVietnamPro/BeVietnamPro-ThinItalic.ttf
+          weight: 100
           style: italic
-    - family: NotoSans
-      fonts:
-        - asset: assets/fonts/NotoSans-Regular.ttf
-        - asset: assets/fonts/NotoSans-Medium.ttf
-        - asset: assets/fonts/NotoSans-Bold.ttf
-        - asset: assets/fonts/NotoSans-Italic.ttf
+        - asset: assets/fonts/BeVietnamPro/BeVietnamPro-ExtraLightItalic.ttf
+          weight: 200
+          style: italic
+        - asset: assets/fonts/BeVietnamPro/BeVietnamPro-LightItalic.ttf
+          weight: 300
+          style: italic
+        - asset: assets/fonts/BeVietnamPro/BeVietnamPro-Italic.ttf
+          weight: 400
+          style: italic
+        - asset: assets/fonts/BeVietnamPro/BeVietnamPro-MediumItalic.ttf
+          weight: 500
+          style: italic
+        - asset: assets/fonts/BeVietnamPro/BeVietnamPro-SemiBoldItalic.ttf
+          weight: 600
+          style: italic
+        - asset: assets/fonts/BeVietnamPro/BeVietnamPro-BoldItalic.ttf
+          weight: 700
+          style: italic
+        - asset: assets/fonts/BeVietnamPro/BeVietnamPro-ExtraBoldItalic.ttf
+          weight: 800
+          style: italic
+        - asset: assets/fonts/BeVietnamPro/BeVietnamPro-BlackItalic.ttf
+          weight: 900
           style: italic
 
   # For details regarding fonts from package dependencies,
